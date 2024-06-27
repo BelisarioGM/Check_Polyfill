@@ -24,7 +24,7 @@ To use the script, run it from the command line with the `-u` flag followed by t
 
 ```bash
 python check_polyfill.py -u http://example.com
-
+```
 
 ![image](https://github.com/BelisarioGM/Check_Polyfill/assets/121070068/a0f43989-892d-4944-b8bc-f2952d1f25e3)
 
